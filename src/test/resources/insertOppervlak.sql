@@ -1,0 +1,1 @@
+insert into oppervlakte (object, zijde, hoogte, oppervlakte)  values ('test','1',1,1000);
